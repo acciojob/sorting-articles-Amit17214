@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body{
+	background-image: url(https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&w=600)
+
+}
+
+div{
+	background-color:#fff;
+	width:300px;
+	height:500px;
+	padding:10px;
+	border-left: 20px solid grey;
+	border-right: 20px solid grey;
+
+
+}
+
+#band{
+		margin-top:10xpx ;
+		line-height: 18px;
+		list-style-type:square;
+		
+}
+
+.main{
+	margin-top:120px;
+	margin-left: 560px;
+}
