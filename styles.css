@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 body{
 	background-image: url(https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&w=600)
-
+    
 }
 
 div{
@@ -11,13 +11,11 @@ div{
 	padding:30px;
 	border-left: 20px solid grey;
 	border-right: 20px solid grey;
-
-
 }
 
-#bands:nth-child{
+#bands{
 		margin-top:10xpx ;
-		line-height: 80px;
+		line-height: 40px;
 		list-style-type:square;
 		
 }
