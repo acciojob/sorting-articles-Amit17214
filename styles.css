@@ -1,17 +1,23 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+}
 ul li{
-	line-height: 35px;
-	list-style-type:square;
+	border-bottom:2px solid black;
+	height:45px;
+    padding-top:20px;
 }
 
 #bands{
-    background-color:#fff;
+	
+/* 	line-height: 35px; */
 	width:300px;
-	padding:30px;
+    background-color:#fff;
 	border-left: 20px solid grey;
 	border-right: 20px solid grey;
 	position: absolute;
-	top: 25px;
+	top: 100px;
 	left: 35%;
+	list-style-type:square;
 
 }
